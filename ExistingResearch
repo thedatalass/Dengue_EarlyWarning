@@ -12,8 +12,15 @@ Result - Highest accuracy - 51%
 Citation: Laureano-Rosario, Abdiel, et al. Application of Artificial Neural Networks for Dengue Fever Outbreak Predictions in the Northwest Coast of 
 Yucatan, Mexico and San Juan, Puerto Rico. Trop. Med. Infect. Dis. 2018, 3, 5; doi:10.3390/tropicalmed3010005
 
+## Daily | Campinas district Sao Paulo, Brazil (Oct 2006-Sept 2007)
+Predictor features - mild or severe confirmed dengue case by person, income, household water delivery, water shortages, water storage
+practices, garbage present around home, garbage collection frequency per week, household experience with floods, reports of bites 
+during the day, basic indoor plumbing, occurence of mosquito breeding sites, number of sites, presence of larvae, home address.
+Result - crude odds ratios --but cannot conclude from data which variables are most significant
+Cordeiro et al. BMC Public Health 2011, 11:355. http://www.biomedcentral.com/1471-2458/11/355
+
 ## Monthly | 5570 municipalities in Brazil (Jan. 2001-Dec. 2013)
-Predictor features - number of monthly dengue cases
+Predictor features - number of monthly dengue cases (555 cases)
 Result - mean number of outbreaks
 Citation - Brady, Oliver. J. et al. Dengue disease outbreak definitions are implicitly variable
 
