@@ -35,3 +35,10 @@ Results - Mosquito infection and dissemination may alter long-term mortality rat
 also longer at lower temperatures in other studies.
 Citation - Christofferson and Mores. Potential for Extrinsic incubation temperature to alter interplay Between transmission Potential and mortality
 of Dengue-infected Aedes aegypti. Environmental Health Insights 2016:10 119–123 doi: 10.4137/EHi.s38345.
+
+## Yearly Councils in New Calcedonia (1971-2010)
+Predictor features - min temp, max temp, mean daily temps, daily min relative humidity
+SVM
+Results - epidemic & non-epidemic years based on these features
+Citation - Descloux E, Mangeas M, Menkes CE, Lengaigne M, Leroy A, et al. (2012) Climate-Based Models for Understanding and Forecasting Dengue
+Epidemics. PLoS Negl Trop Dis 6(2): e1470. doi:10.1371/journal.pntd.0001470
