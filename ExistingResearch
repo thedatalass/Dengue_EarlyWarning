@@ -1,9 +1,7 @@
 
 ## Weekly | 6 cities within China Guangdong province| 1 Jan 2011 - 31 Dec 2014
 Predictor features - previous weekly dengue cases, weekly mean temp, weekly avg relative humidity, weekly rainfall
-
 Smallest RMSE was for Support Vector Regression - 0.3537
-
 Citation: Guo P, Liu T, Zhang Q, Wang L, Xiao J, Zhang Q, et al. (2017) Developing a dengue forecast model using machine learning: A case
 study in China. PLoS Negl Trop Dis 11(10):e0005973. https://doi.org/10.1371/journal.pntd.0005973
 
@@ -11,6 +9,13 @@ study in China. PLoS Negl Trop Dis 11(10):e0005973. https://doi.org/10.1371/jour
 Predictor features - previous daily dengue cases, population size, date, max air temp, min air temp, sea surface temp, 4-week lag rain, population size
 Feed forward ANN 
 Highest accuracy - 51%
-
 Citation: Laureano-Rosario, Abdiel, et al. Application of Artificial Neural Networks for Dengue Fever Outbreak Predictions in the Northwest Coast of 
 Yucatan, Mexico and San Juan, Puerto Rico. Trop. Med. Infect. Dis. 2018, 3, 5; doi:10.3390/tropicalmed3010005
+
+## Monthly | 5570 municipalities in Brazil (Jan. 2001-Dec. 2013)
+mean number of outbreaks
+Citation - Brady, Oliver. J. et al. Dengue disease outbreak definitions are implicitly variable
+
+## Daily | 457 urban villages of Kaohsiung City, Taiwain (2009-2012)
+Statistics - threshold cut points that village will have higher odds of getting more cases in upcoming 14 days
+Citation - Chan et al. International Journal of Health Geographics 2015, 14:9. http://www.ij-healthgeographics.com/content/14/1/9
