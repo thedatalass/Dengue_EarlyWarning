@@ -1,21 +1,30 @@
 
 ## Weekly | 6 cities within China Guangdong province| 1 Jan 2011 - 31 Dec 2014
 Predictor features - previous weekly dengue cases, weekly mean temp, weekly avg relative humidity, weekly rainfall
-Smallest RMSE was for Support Vector Regression - 0.3537
+Result - Smallest RMSE was for Support Vector Regression model - 0.3537
 Citation: Guo P, Liu T, Zhang Q, Wang L, Xiao J, Zhang Q, et al. (2017) Developing a dengue forecast model using machine learning: A case
 study in China. PLoS Negl Trop Dis 11(10):e0005973. https://doi.org/10.1371/journal.pntd.0005973
 
 ## Daily | Multiple provinces in Puerto Rico (1994-2012) and Mexico (2007-2012)
 Predictor features - previous daily dengue cases, population size, date, max air temp, min air temp, sea surface temp, 4-week lag rain, population size
 Feed forward ANN 
-Highest accuracy - 51%
+Result - Highest accuracy - 51%
 Citation: Laureano-Rosario, Abdiel, et al. Application of Artificial Neural Networks for Dengue Fever Outbreak Predictions in the Northwest Coast of 
 Yucatan, Mexico and San Juan, Puerto Rico. Trop. Med. Infect. Dis. 2018, 3, 5; doi:10.3390/tropicalmed3010005
 
 ## Monthly | 5570 municipalities in Brazil (Jan. 2001-Dec. 2013)
-mean number of outbreaks
+Predictor features - number of monthly dengue cases
+Result - mean number of outbreaks
 Citation - Brady, Oliver. J. et al. Dengue disease outbreak definitions are implicitly variable
 
 ## Daily | 457 urban villages of Kaohsiung City, Taiwain (2009-2012)
-Statistics - threshold cut points that village will have higher odds of getting more cases in upcoming 14 days
+Predictor features - number of daily dengue cases
+Result - threshold cut points that village will have higher odds of getting more cases in upcoming 14 days
 Citation - Chan et al. International Journal of Health Geographics 2015, 14:9. http://www.ij-healthgeographics.com/content/14/1/9
+
+## Daily Mosquito exposed to viruses in Louisiana (2015)
+Predictor features - extrinsic factors (viral strain type, temperature, humidity) & intrinsic factors (incubation period)
+Results - Mosquito infection and dissemination may alter long-term mortality rate with increased temperatures. Mosquito lifespan
+also longer at lower temperatures in other studies.
+Citation - Christofferson and Mores. Potential for Extrinsic incubation temperature to alter interplay Between transmission Potential and mortality
+of Dengue-infected Aedes aegypti. Environmental Health Insights 2016:10 119–123 doi: 10.4137/EHi.s38345.
