@@ -9,4 +9,4 @@ https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page
 https://github.com/AlexJF12/predicting-dengue/blob/master/3%20-%20Dengue%20cases%20EDA.ipynb
 
 ### Are Other Important Disease Transmission Features Missing from the Data?
- - Number of items with standing water within XX feet of homes, cities, etc
+ - Number of items with standing water within XX distance of where people live, frequency of people visiting others during holidays, etc
